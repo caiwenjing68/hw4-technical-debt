@@ -1,5 +1,5 @@
 
-17-623: Quality Assurance: Scrabble with Stuff
+Scrabble with Stuff
 ===================
 ## Project Description 
 The purpose of this project is to provide a model problem for you to apply the quality assurance techniques and methods presented in the course. You are tasked with evaluating the quality of an existing software project. Remember that the goals of this course are software quality analysis, not software development. During our class this project will serve as the basis for assignments on software testing, analysis, and quality assessment. Each assignment will ask you to use the project artifacts to perform a type of quality assessment. 
